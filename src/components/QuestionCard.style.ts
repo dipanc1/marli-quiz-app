@@ -1,16 +1,15 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-    width: 800px;
+    width: 700px;
     background: #ebfeff;
     border radius: 10px;
     border: 2px solid #0085a3;
     padding: 20px;
     box-shadow: 0px 5px 10px #0085a3;
     text-align: center;
-    height: 800px
     p{
-        font-size: 2rem;
+        font-size: 1em;
     }
     `
 
